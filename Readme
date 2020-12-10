@@ -1,4 +1,4 @@
-Replication of https://github.com/nlpyang/BertSum . Not my 
+Replication of https://github.com/nlpyang/BertSum . 
 Used Google Colab for running multiple GPUs
 
 
@@ -30,3 +30,9 @@ Requirement: GPUs
 
 
 
+
+
+
+
+
+Disclaimer: I am not the owner of the code. Owner of the code is Yang Liu, Mirella Lapata.
